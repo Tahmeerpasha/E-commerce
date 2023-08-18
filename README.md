@@ -1,2 +1,2 @@
-# E-commerce
-A E-commerce app made for selling products online.
+# E-Commerce
+A E-Commerce app made for selling products online.
